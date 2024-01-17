@@ -7,6 +7,7 @@ REACT JS
 ### DATABASE:
 MONGODB
 
+
 ## Set Up
 1) Clone the repository by using this command https://github.com/rishimaheshwari123/MERN-Quiz-App.git
 2) Open terminal in that folder.
